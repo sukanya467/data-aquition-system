@@ -1,4 +1,4 @@
-# data-aquition-system:
+# data-acquisition-system:
 
 ## Project Description
 This project demonstrates a **Data Acquisition System (DAS)** developed using the **8051 microcontroller**. The system reads data from various sensors (like temperature, light, gas, etc.) and displays the real-time readings on an **LCD**. It can also transmit the data to a PC using **UART (serial communication)** for further monitoring or logging.
